@@ -1,4 +1,3 @@
 # React Admin Dashboard
 
-Completed React Admin Dashboard Repo
-
+Completed React Admin Dashboard With ChartJS
